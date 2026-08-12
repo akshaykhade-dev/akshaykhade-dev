@@ -72,6 +72,7 @@ security scanning, and application deployment.
 ### 1. End-to-End DevOps CI/CD Pipeline for Dockerized Flask Application
 
 Built an automated Jenkins CI/CD pipeline for a Dockerized Flask application.
+https://github.com/akshaykhade-dev/web_application.git
 
 **Technologies:**  
 Linux, Python, Flask, Docker, Jenkins, Git, GitHub, Nginx, Gunicorn,
@@ -81,6 +82,7 @@ Prometheus, Grafana, Loki, Promtail, SSL/TLS
 
 Integrated security scanning into Jenkins CI/CD to identify code,
 container, and secret-related security issues before deployment.
+https://github.com/akshaykhade-dev/python-app-cicd.git
 
 **Technologies:**  
 Jenkins, Docker, SonarQube, Trivy, Gitleaks, Python Flask, Docker Hub, EC2
