@@ -1,94 +1,132 @@
 # Hi, I'm Akshay Khade 👋
 
-🚀 Linux System Administrator | DevOps & DevSecOps Enthusiast
-☁️ Learning AWS Cloud, CI/CD Automation & Infrastructure Management
-💼 Building real-world infrastructure and security-focused projects
+## DevOps Engineer | Linux | AWS | CI/CD | Docker | Kubernetes
+
+DevOps Engineer with hands-on experience in Linux server administration,
+production application deployment, AWS infrastructure, and CI/CD automation.
+
+I work with Linux, AWS, Jenkins, Docker, Kubernetes, Ansible, monitoring,
+security scanning, and application deployment.
 
 ---
 
-# 🛠 Technical Skills
+## 🛠️ Tech Stack
 
-## 🔹 Linux System Administration
+### Cloud & Infrastructure
+- AWS EC2
+- VPC
+- IAM
+- S3
+- CloudFront
+- Route 53
+- RDS
+- Application Load Balancer
+- Auto Scaling
+- ACM
+- Security Groups
+- NAT Gateway
+- AWS CLI
+- AWS CloudShell
 
-* File & directory permissions
-* User and group management
-* Disk partitioning (fdisk)
-* Logical Volume Management (LVM)
-* Disk mounting & persistent mounts
-* Backup & restore using tar and rsync
-* Cron jobs & task scheduling
-* Process & system monitoring
-* System troubleshooting
+### DevOps & CI/CD
+- Git
+- GitHub
+- Jenkins
+- Docker
+- Kubernetes
+- Ansible
 
-## 🔹 DevOps & DevSecOps
+### DevSecOps
+- SonarQube
+- Trivy
+- Gitleaks
+- Docker Hub
 
-* Git & GitHub
-* Jenkins CI/CD Pipeline
-* Docker Containerization
-* Kubernetes Basics
-* Ansible Automation
-* SonarQube (SAST Scanning)
-* Trivy Container Security Scanning
-* Gitleaks Secret Detection
-* Automated Security Gates
-* DockerHub Image Management
+### Monitoring & Logging
+- Prometheus
+- Grafana
+- Loki
+- Promtail
 
-## 🔹 AWS Cloud
+### Linux & Networking
+- Ubuntu
+- CentOS
+- Linux CLI
+- Bash
+- Apache
+- Nginx
+- SSH / SFTP
+- DNS
+- HTTP / HTTPS
+- SSL/TLS
 
-* AWS EC2
-* Basic Cloud Deployment
-* Linux Server Setup on AWS
-
-## 🔹 Command Line & Automation
-
-* Linux CLI
-* Bash scripting
-* vi / vim / nano editors
-
-## 🔹 Networking
-
-* IP configuration & troubleshooting
-* SSH
-* FTP / SFTP
-* NFS
-* Samba
-
-## 🔹 Virtualization & Operating Systems
-
-* VMware Workstation
-* Ubuntu
-* CentOS
-
----
-
-# 📌 Current Focus
-
-* DevOps & DevSecOps Projects
-* CI/CD Pipeline Automation
-* Docker, Kubernetes & Ansible
-* AWS Cloud Learning
-* Linux Administration & Automation
+### Databases
+- MySQL
+- PostgreSQL
+- phpMyAdmin
 
 ---
 
-# 📂 Featured Repositories
+## 🚀 Featured Projects
 
-* 🔹 **devsecops-cicd-pipeline**
-  CI/CD pipeline with Jenkins, SonarQube, Gitleaks, Trivy, Docker, and automated security checks.
+### 1. End-to-End DevOps CI/CD Pipeline for Dockerized Flask Application
 
-* 🔹 **linux-labs**
-  Linux administration hands-on practice labs.
+Built an automated Jenkins CI/CD pipeline for a Dockerized Flask application.
 
-* 🔹 **bash-automation**
-  Bash scripts for automation and system administration tasks.
+**Technologies:**  
+Linux, Python, Flask, Docker, Jenkins, Git, GitHub, Nginx, Gunicorn,
+Prometheus, Grafana, Loki, Promtail, SSL/TLS
 
-* 🔹 **networking-fundamentals**
-  Networking concepts and Linux network configuration practice.
+### 2. DevSecOps CI/CD Pipeline with Automated Security Gates
 
-* 🔹 **hiring-automation-system**
-  Hiring-focused automation project.
+Integrated security scanning into Jenkins CI/CD to identify code,
+container, and secret-related security issues before deployment.
+
+**Technologies:**  
+Jenkins, Docker, SonarQube, Trivy, Gitleaks, Python Flask, Docker Hub, EC2
+
+### 3. Automated Multi-Server Configuration using Ansible on AWS
+
+Automated package installation and service configuration across
+multiple AWS EC2 instances using Ansible.
+
+**Technologies:**  
+Ansible, AWS EC2, Ubuntu
 
 ---
+
+## 💼 Professional Experience
+
+### DevOps Engineer
+
+- Linux server administration
+- Apache virtual host configuration
+- Website and application deployment
+- SSL/TLS certificate management
+- Jenkins CI/CD pipeline implementation
+- AWS infrastructure management
+- EC2, VPC, S3, RDS, IAM, Route 53 and CloudFront
+
+---
+
+## 📊 DevOps Focus
+
+```text
+Linux Administration
+        ↓
+Git & GitHub
+        ↓
+Jenkins CI/CD
+        ↓
+Docker
+        ↓
+Security Scanning
+        ↓
+AWS Infrastructure
+        ↓
+Monitoring & Logging
+        ↓
+Production Deployment
 
 # 📫 Connect with Me
 
